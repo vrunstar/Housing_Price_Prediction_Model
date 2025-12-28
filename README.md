@@ -54,3 +54,9 @@ This project provides a practical solution for predicting housing prices using m
 ## Acknowledgement
 
 Thanks to the developers and maintainers of the Open-Source Python Libraries that are used in this project such as NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, and XGBoost.
+
+---
+
+## License
+
+This project is licensed under the MIT License.
